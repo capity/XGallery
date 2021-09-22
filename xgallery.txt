@@ -6,5 +6,6 @@
   "load_time" : 5,
   "show_time" : 7,
   "random_number" : 5,
-  "show_number" : 1
+  "show_number" : 1,
+  "on_back_random" : 1
 }
