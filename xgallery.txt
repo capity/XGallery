@@ -9,3 +9,8 @@
   "show_number" : 2,
   "on_back_random" : 1
 }
+
+
+
+1 = show
+0= not show
