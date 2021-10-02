@@ -7,7 +7,7 @@
   "show_time" : 10,
   "random_number" : 6,
   "show_number" : 2,
-  "on_back_random" : 1
+  "on_back_random" : 0
 }
 
 
