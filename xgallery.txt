@@ -10,12 +10,3 @@
   "on_back_random" : 0
 }
 
- "intertitial_new" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Interstitial0.1635402468",
-  "native_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
-  "open_new" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
-  "on_back_random" : 1
-
-
-
-1 = show
-0= not show
